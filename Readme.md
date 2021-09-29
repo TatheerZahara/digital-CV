@@ -68,9 +68,10 @@ Fall'21
 CGPA: **3.58**/4.00        Graduated: 2021
 
 ## I lOVE 
-- ANIMALS! <br> Fun Fact: I have a cat named Trignometry back home. He is my little spoiled brat. <br> ![img](MeandTrig.JPG)<br> In the US, my roommate has a cat and A SNAKE! 
+- ANIMALS! <br> Fun Fact: I have a cat named Trignometry back home. Look at my little spoiled brat. <br> ![img](MeandTrig.JPG)<br> In the US, my roommate has a cat and A SNAKE! 
 - Working out and eating clean 
 - Sketching and art
+- Psychology 
 
 
 
