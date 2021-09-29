@@ -2,6 +2,8 @@
 
 Hello, I am a Computer Science grad student at The Pennsylvania State University (We are!). 
 
+![Image](00000211972.JPG)
+
 
 
 ## Education 
