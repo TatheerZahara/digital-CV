@@ -10,21 +10,21 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 ## Work/Internship Experience
 
-### Research Assistant @ SynSync-Presently
+### Research Assistant @ SynSync *[Sept-Present]*
 * As mentioned above, I am working with Dr. Rafiul on 5G. 
 
-### Research Assistant @ Deep Learning Lab <br>
+### Research Assistant @ Deep Learning Lab *[Mar 2020 - Jun 2021]*
 * Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
 * Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
 * Introduced a novel **three prong technique** for detecting outliers in various datasets. [Technologies: Python; pytorch] <br>
 [View on Github](https://github.com/TatheerZahara/Deep-SVDD-PyTorch-experiments.git)
 
-### Research Assistant @ CYPHYNETS <br>
+### Research Assistant @ CYPHYNETS *[Jun 2019-Sept 2019]*
 * Worked on automating crop classification using geotechnical data from **Google Earth Engine**. <br>
 * Utilized **CNNs (VGG-16)** for accurate classification of crops. <br>
 *I worked on this project during my Sophomore year, and it recently got published. [Have a look at it!](https://ieeexplore.ieee.org/document/9506046)* 
 
-### Teaching Assistant [CMPSC 131: Programming and Computation]-Presently       
+### Teaching Assistant [CMPSC 131: Programming and Computation]-*[Aug 2021-Present]*      
 * CMPSC-131 has **850** students, and I am responsible for **300**. 
 * Conducting weekly recitations for **5** sections.  Additionally, grading and conducting office hours. 
 
@@ -46,15 +46,15 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 ## Non-Technical Work Experience 
 During the four years of my undergrad, I worked with multiple organizations as a freelancer. Following is a summary of my work experience: 
 
-### Crypto News Writer and Technical Marketer @ ICO Announcements & Chain Social
+### Crypto News Writer and Technical Marketer @ ICO Announcements & Chain Social *[May 2021-Jun 2021]*
 * Managed marketing of **30-40** crypto companies each month (social media, web content, and Telegram groups).
 * Critiqued new crypto initiatives and wrote blog pieces on them. 
 * Edited and written whitepapers for crypto projects. 
 
-### Technical Copywriter @ Wordsmiths, Inc.                                                                                         
-### Marketing and Intern @ Cykiq, National Sciences and Technology Park                                        
-### Marketing Intern @ SIMSIM Finca                                                                                                    
-### Technical Writer @ Arfa Software Technology Park 
+### Technical Copywriter @ Wordsmiths, Inc. *[Jan 2020-Sept 2020]*                                                                                       
+### Marketing and Intern @ Cykiq, National Sciences and Technology Park *[Aug 2018-Dec 2018]*                                     
+### Marketing Intern @ SIMSIM Finca *[Sept 2018-Nov 2018]*                                                                                                    
+### Technical Writer @ Arfa Software Technology Park *[Jun 2018-Aug 2018]*
 
 ## Education 
 **The Pennsylvania State University** <br>
