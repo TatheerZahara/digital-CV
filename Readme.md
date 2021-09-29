@@ -24,7 +24,7 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 * Utilized **CNNs (VGG-16)** for accurate classification of crops. <br>
 *I worked on this project during my Sophomore year, and it recently got published. [Have a look at it!](https://ieeexplore.ieee.org/document/9506046)* 
 
-### Teaching Assistant [CMPSC 131: Programming and Computation]-*[Aug 2021-Present]*      
+### Teaching Assistant; Course: CMPSC 131-Programming and Computation *[Aug 2021-Present]*      
 * CMPSC-131 has **850** students, and I am responsible for **300**. 
 * Conducting weekly recitations for **5** sections.  Additionally, grading and conducting office hours. 
 
