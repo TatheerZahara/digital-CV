@@ -1,15 +1,28 @@
 # Introduction 
-Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
+Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there, and moved to the US immediately. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
 
+## What am I doing currently? 
+1. Learning how to cook (One of the most difficult things I have ever done, haha). 
+2. Working with Dr. Syed Rafiul Hussain on **5G** Technologies. We would potentially work on addressing access control issues. 
+3. Developing a **Thread Migrator** for my **Operating Systems** course. [Technologies: C/C++]
+
+## Technical Experience
+
+* **Research Assistant** @ Deep Learning Lab <br>
+Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
+Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
+Introduced a novel **three prong technique** for detecting outliers in various datasets. [Technologies: Python; pytorch]
 
 
 
 ## Education 
+**The Pennsylvania State University** 
+Fall'21
 
-1. PSU 
-2. NUST 
+**National University of Sciences and Technology** 
+CGPA: **3.58**/4.00        Graduated: 2021
 
-## Technical Experience 
+
 
 - Waah
 - Naaah 
