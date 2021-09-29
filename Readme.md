@@ -67,6 +67,11 @@ Fall'21
 **National University of Sciences and Technology** <br>
 CGPA: **3.58**/4.00        Graduated: 2021
 
+## Tools/Technologies
+* Languages: C/C++, Python, Java, JavaScript 
+* Libraries: NumPy, PyTorch, Tensorflow, Keras, scikit-learn, OpenCV 
+* Tools/Frameworks: Google Earth Engine, MySQL, NodeJS, Ajax, React-native, ReactJS
+
 ## I lOVE 
 - ANIMALS! <br> Fun Fact: I have a cat named Trignometry back home. Look at my little spoiled brat. <br> ![img](MeandTrig.JPG)<br> In the US, my roommate has a cat and A SNAKE! 
 - Working out and eating clean 
