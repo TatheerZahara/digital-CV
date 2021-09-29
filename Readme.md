@@ -36,10 +36,12 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 ### Multi-threaded Web-crawler [C++] 
 * Devised a novel Linux-based web-crawler using **priority queues** for ordering searched words and URLs.
-* Introduced **parallelism** by using multiple threads for queue traversal. <br> [View on Github](https://github.com/TatheerZahara/Multi-threaded-Web-Crawler-Using-Priority-Queues-.git)
+* Introduced **parallelism** by using multiple threads for queue traversal.
+<br> [View on Github](https://github.com/TatheerZahara/Multi-threaded-Web-Crawler-Using-Priority-Queues-.git)
 
 ### Reliable UDP [C/C++] 
-* Imitated the benefits of TCP by adding sequence numbers and selective repeat for **reducing packet loss**. <br> [View on Github](https://github.com/TatheerZahara/Reliable-UDP.git)
+* Imitated the benefits of TCP by adding sequence numbers and selective repeat for **reducing packet loss**. 
+<br> [View on Github](https://github.com/TatheerZahara/Reliable-UDP.git)
 
 ### Red Black Tree [C++] 
 [View on Github](https://github.com/TatheerZahara/Red-Black-Tree-Implementation.git)
