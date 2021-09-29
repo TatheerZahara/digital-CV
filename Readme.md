@@ -28,20 +28,22 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 ## Projects
 
-### Multi-threaded Web-crawler [C++]
+### Multi-threaded Web-crawler [C++] [View on Github](https://github.com/TatheerZahara/Multi-threaded-Web-Crawler-Using-Priority-Queues-.git)
 
-### Reliable UDP [C/C++]
+### Reliable UDP [C/C++] [View on Github](https://github.com/TatheerZahara/Reliable-UDP.git)
 
-### Red Black Tree [C++]
+### Red Black Tree [C++] [View on Github](https://github.com/TatheerZahara/Red-Black-Tree-Implementation.git)
 
-### Piano Tiles using Object Oriented Programming [Java]
+### Piano Tiles using Object Oriented Programming [Java] [View on Github](https://github.com/TatheerZahara/Piano-Tiles-Using-Object-Oriented-Programming.git)
 
 ### Lawyers Management System [Web]
 
 ## Non-Technical Work Experience 
 
 ## Tools/Technologies 
-
+* Languages: C/C++, C#, Python, Java, JavaScript 
+* Libraries: NumPy, PyTorch, Tensorflow, Keras, scikit-learn, OpenCV 
+* Tools/Frameworks: Google Earth Engine, MySQL, NodeJS, Ajax, React-native, ReactJS
 
 ## Education 
 **The Pennsylvania State University** <br>
