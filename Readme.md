@@ -4,7 +4,23 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 
 
-### Markdown
+## Education 
+
+1. PSU 
+2. NUST 
+
+## Technical Experience 
+
+- Waah
+- Naaah 
+
+## Non Technical Experience 
+
+Woooo 
+
+## Nooooo 
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
