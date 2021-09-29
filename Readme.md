@@ -1,8 +1,6 @@
-# Brief Introduction 
+# Introduction 
+Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
 
-Hello, I am a Computer Science grad student at The Pennsylvania State University (We are!). 
-
-![Image](00000211972.JPG)
 
 
 
