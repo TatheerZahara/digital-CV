@@ -8,18 +8,23 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 ## Technical Experience
 
-* **Research Assistant** @ Deep Learning Lab <br>
-Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
-Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
-Introduced a novel **three prong technique** for detecting outliers in various datasets. [Technologies: Python; pytorch]
+### **Research Assistant** @ Deep Learning Lab <br>
+* Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
+* Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
+* Introduced a novel **three prong technique** for detecting outliers in various datasets. [Technologies: Python; pytorch]
+
+### **Research Assistant** @ Deep Learning Lab <br>
+* Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
+* Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
+* Introduced a novel **three prong technique** for detecting outliers in various datasets. [Technologies: Python; pytorch]
 
 
 
 ## Education 
-**The Pennsylvania State University** 
+**The Pennsylvania State University** <br>
 Fall'21
 
-**National University of Sciences and Technology** 
+**National University of Sciences and Technology** <br>
 CGPA: **3.58**/4.00        Graduated: 2021
 
 
