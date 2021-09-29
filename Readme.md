@@ -1,12 +1,16 @@
 # Introduction 
-Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there, and moved to the US immediately. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
+Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). 
+<br> <br>Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there, and moved to the US immediately. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
+<br> <br>Currently, I am occupied with coursework, projects, and finding an internship for Summer 2022. I am interested in **Software Engineering** positions, and I am open to **relocation**. 
+<br> <br> Hit me up if you have an exciting opportunity!
 
 [LinkedIn](https://www.linkedin.com/in/tatheer-zahra14) | [Twitter](https://www.twitter.com/TatheerZahara) | [Email](mailto:tatheer13@gmail.com) | [Facebook](https://www.facebook.com/tatheer.zahara.75/) | [Instagram](https://www.instagram.com/tatheer10/)
 
 ## What am I doing currently? 
-1. Learning how to cook (One of the most difficult things I have ever done, haha). <br>![Image](Food.jpg)<br>
-2. Working with Dr. Syed Rafiul Hussain on **5G** Technologies. We would potentially work on addressing access control issues. 
+1. Working with Dr. Syed Rafiul Hussain on **5G** Technologies. We would potentially work on addressing access control issues. 
 3. Developing a **Thread Migrator** for my **Operating Systems** course. [Technologies: C/C++]
+2. Learning how to cook (One of the most difficult things I have ever done, haha). <br>![Image](Food.jpg)<br>
+
 
 ## Work/Internship Experience
 
@@ -63,9 +67,10 @@ Fall'21
 **National University of Sciences and Technology** <br>
 CGPA: **3.58**/4.00        Graduated: 2021
 
-## Things I love 
+## I lOVE 
 - ANIMALS! <br> Fun Fact: I have a cat named Trignometry back home. He is my little spoiled brat. <br> ![img](MeandTrig.JPG)<br> In the US, my roommate has a cat and A SNAKE! 
 - Working out and eating clean 
+- Sketching and art
 
 
 
