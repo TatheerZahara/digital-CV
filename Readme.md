@@ -44,8 +44,8 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 ### Lawyers Management System [Web]
 
 ## Non-Technical Work Experience 
-### Crypto News Writer and Technical Marketer | ICO Announcements & Chain Social
-* Managed marketing of 30-40 crypto companies each month (social media, web content, and Telegram groups).
+### Crypto News Writer and Technical Marketer @ ICO Announcements & Chain Social
+* Managed marketing of **30-40** crypto companies each month (social media, web content, and Telegram groups).
 * Critiqued new crypto initiatives and wrote blog pieces on them. 
 * Edited and written whitepapers for crypto projects. 
 ### Technical Copywriter | Wordsmiths, Inc.                                                                                         
