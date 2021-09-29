@@ -44,14 +44,16 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 ### Lawyers Management System [Web]
 
 ## Non-Technical Work Experience 
+During the four years of my undergrad, I worked with multiple organizations as a freelancer. Following is a summary of my work experience: 
 ### Crypto News Writer and Technical Marketer @ ICO Announcements & Chain Social
 * Managed marketing of **30-40** crypto companies each month (social media, web content, and Telegram groups).
 * Critiqued new crypto initiatives and wrote blog pieces on them. 
 * Edited and written whitepapers for crypto projects. 
-### Technical Copywriter | Wordsmiths, Inc.                                                                                         
-### Marketing and Intern | Cykiq, National Sciences and Technology Park                                        
-### Marketing Intern | SIMSIM Finca                                                                                                    
-### Technical Writer | Arfa Software Technology Park                                                                           
+### Technical Copywriter @ Wordsmiths, Inc.                                                                                         
+### Marketing and Intern @ Cykiq, National Sciences and Technology Park                                        
+### Marketing Intern @ SIMSIM Finca                                                                                                    
+### Technical Writer @ Arfa Software Technology Park 
+
 ## Tools/Technologies 
 * Languages: C/C++, C#, Python, Java, JavaScript 
 * Libraries: NumPy, PyTorch, Tensorflow, Keras, scikit-learn, OpenCV 
