@@ -1,6 +1,8 @@
 # Introduction 
 Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there, and moved to the US immediately. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
 
+[LinkedIn](https://https://www.linkedin.com/in/tatheer-zahra14/) | [Twitter](https://https://twitter.com/TatheerZahara) | [Email](tatheer13@gmail.com) | [Facebook](https://www.facebook.com/tatheer.zahara.75/) | [Instagram](https://www.instagram.com/tatheer10/)
+
 ## What am I doing currently? 
 1. Learning how to cook (One of the most difficult things I have ever done, haha). <br>![Image](Food.jpg)<br>
 2. Working with Dr. Syed Rafiul Hussain on **5G** Technologies. We would potentially work on addressing access control issues. 
