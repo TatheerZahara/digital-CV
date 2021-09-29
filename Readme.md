@@ -31,8 +31,11 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 ## Projects
 
 ### Multi-threaded Web-crawler [C++] [View on Github](https://github.com/TatheerZahara/Multi-threaded-Web-Crawler-Using-Priority-Queues-.git)
+* Devised a novel Linux-based web-crawler using **priority queues** for ordering searched words and URLs.
+* Introduced **parallelism** by using multiple threads for queue traversal. 
 
 ### Reliable UDP [C/C++] [View on Github](https://github.com/TatheerZahara/Reliable-UDP.git)
+* Imitated the benefits of TCP by adding sequence numbers and selective repeat for **reducing packet loss**. 
 
 ### Red Black Tree [C++] [View on Github](https://github.com/TatheerZahara/Red-Black-Tree-Implementation.git)
 
@@ -41,7 +44,14 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 ### Lawyers Management System [Web]
 
 ## Non-Technical Work Experience 
-
+### Crypto News Writer and Technical Marketer | ICO Announcements & Chain Social
+* Managed marketing of 30-40 crypto companies each month (social media, web content, and Telegram groups).
+* Critiqued new crypto initiatives and wrote blog pieces on them. 
+* Edited and written whitepapers for crypto projects. 
+### Technical Copywriter | Wordsmiths, Inc.                                                                                         
+### Marketing and Intern | Cykiq, National Sciences and Technology Park                                        
+### Marketing Intern | SIMSIM Finca                                                                                                    
+### Technical Writer | Arfa Software Technology Park                                                                           
 ## Tools/Technologies 
 * Languages: C/C++, C#, Python, Java, JavaScript 
 * Libraries: NumPy, PyTorch, Tensorflow, Keras, scikit-learn, OpenCV 
