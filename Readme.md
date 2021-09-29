@@ -50,16 +50,11 @@ During the four years of my undergrad, I worked with multiple organizations as a
 * Managed marketing of **30-40** crypto companies each month (social media, web content, and Telegram groups).
 * Critiqued new crypto initiatives and wrote blog pieces on them. 
 * Edited and written whitepapers for crypto projects. 
-<br>
+
 ### Technical Copywriter @ Wordsmiths, Inc.                                                                                         
 ### Marketing and Intern @ Cykiq, National Sciences and Technology Park                                        
 ### Marketing Intern @ SIMSIM Finca                                                                                                    
 ### Technical Writer @ Arfa Software Technology Park 
-
-## Tools/Technologies 
-* Languages: C/C++, C#, Python, Java, JavaScript 
-* Libraries: NumPy, PyTorch, Tensorflow, Keras, scikit-learn, OpenCV 
-* Tools/Frameworks: Google Earth Engine, MySQL, NodeJS, Ajax, React-native, ReactJS
 
 ## Education 
 **The Pennsylvania State University** <br>
