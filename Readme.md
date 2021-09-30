@@ -1,5 +1,5 @@
 # Introduction 
-Hello, I am a Computer Science grad student at The Pennsylvania State University (GO NITTANY LIONS!). 
+Hello, I am a Computer Science grad student at The Pennsylvania State University (WE ARE!). 
 <br> <br>Previosuly, I was at National University of Sciences and Technology (NUST-Pakistan). I completed my Bachelors in Computer Science there, and moved to the US immediately. Moving to a completely new country exposes you to a ton of challenges and difficulties, but I couldn't be more grateful for the opportunities I get everyday. 
 <br> <br>Currently, I am occupied with coursework, projects, and finding an internship for Summer 2022. I am interested in **Software Engineering** positions, and I am open to **relocation**. 
 <br> <br> Hit me up if you have an exciting opportunity!
