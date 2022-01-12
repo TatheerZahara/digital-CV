@@ -13,9 +13,6 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 
 ## Work/Internship Experience
 
-### Research Assistant @ SynSync *[Sept-Present]*
-* As mentioned above, I am working with Dr. Rafiul on 5G. 
-
 ### Research Assistant @ Deep Learning Lab *[Mar 2020 - Jun 2021]*
 * Improved **Deep SVDD** [framework by Lukas Ruff] for **anomaly detection** using One Class Classification. <br>
 * Modified the pre-training and post-training of autoencoders for better results in benchmark anomaly datasets **[CIFAR, MNIST, FMNIST]**. <br>
