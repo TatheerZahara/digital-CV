@@ -7,8 +7,7 @@ Hello, I am a Computer Science grad student at The Pennsylvania State University
 [LinkedIn](https://www.linkedin.com/in/tatheer-zahra14) | [Twitter](https://www.twitter.com/TatheerZahara) | [Email](mailto:tatheer13@gmail.com) | [Facebook](https://www.facebook.com/tatheer.zahara.75/) | [Instagram](https://www.instagram.com/tatheer10/)
 
 ## What am I doing currently? 
-1. Working with Dr. Syed Rafiul Hussain on **5G** Technologies. We would potentially work on addressing access control issues. 
-3. Developing a **Thread Migrator** for my **Operating Systems** course. [Technologies: C/C++]
+1. Developing a **Thread Migrator** for my **Operating Systems** course. [Technologies: C/C++]
 2. Learning how to cook (One of the most difficult things I have ever done, haha). <br>![Image](Food.jpg)<br>
 
 
